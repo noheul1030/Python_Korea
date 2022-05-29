@@ -11,4 +11,4 @@ print('{}/{}={}'.format(a,b,a/b))       #나누기(소수점까지)
 print('{}//{}={}'.format(a,b,a//b))     #나누기(소수점 뗌)
 print('{}%{}={}'.format(a,b,a%b))       #나머지 구하기
 
-# page 85 (1)
+
