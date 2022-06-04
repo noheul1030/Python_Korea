@@ -1,5 +1,4 @@
 import cv2
-from cv2 import FONT_HERSHEY_PLAIN
 
 # 이미지 불러오기
 이미지 = cv2.imread('img1.jpg')

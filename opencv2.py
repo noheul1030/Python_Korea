@@ -1,4 +1,3 @@
-from tkinter.tix import Tree
 import cv2
 
 동영상 = cv2.VideoCapture('video.mp4')
