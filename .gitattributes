@@ -2,3 +2,4 @@
 *text=auto
 *.text linguist-detectable=false
 *.text linguist-vendored=false
+*.tex linguist-detectable=false
