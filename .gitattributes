@@ -3,5 +3,6 @@
 *.text linguist-detectable=false
 *.py linguist-detectable=false
 *.TTF linguist-detectable=false
+*.toc linguist-detectable=false
 *.text linguist-vendored=false
 *.tex linguist-detectable=false
